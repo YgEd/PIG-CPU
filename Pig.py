@@ -14,11 +14,6 @@ For your final project, we are going to revisit the Pig game we programmed
 for a previous lab. If you need a refresher for the rules for pig, just check
 back on the previous lab. All the rules are the same for this assignment.
 
-Just like in the previous assignment, we have provided the structure the code
-should follow. All you have to do is fill in the blanks! Unlike previous
-assignments, this game is broken up into multiple files. Make sure you
-implement all the missing functions in all the files.
-
 Also, this time the AI is not optional. Don’t worry though, we have provided
 enough of a skeleton to lead you to the right solutions.
 
